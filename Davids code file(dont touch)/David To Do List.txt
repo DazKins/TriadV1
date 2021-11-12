@@ -1,0 +1,12 @@
+PARTICLES
+weather effects DONE  (still some work on effect already being there when you enter the map)
+hit effects DONE
+
+
+ITEM DROPS
+add item drop framework DONE
+make mobs drop items DONE
+
+DAY NIGHT CYCLE     DONE (could do with work on timing and transition though)
+
+CHANGEABLE ZONE MARKERS      DONE (but not tested)
